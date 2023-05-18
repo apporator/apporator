@@ -4,4 +4,4 @@ My enthusiasm for teamwork and a competitive spirit extends beyond the professio
 
 I’m always looking for opportunities to learn and grow. If you have any recommendations for books, podcasts, or DIY projects, let me know!
 
-https://github-readme-stats.vercel.app/api?username=apporator&theme=tokyonight
+<img src="https://github-readme-stats.vercel.app/api?username=apporator&theme=tokyonight"/>
