@@ -5,4 +5,4 @@ My enthusiasm for teamwork and a competitive spirit extends beyond the professio
 I’m always looking for opportunities to learn and grow. If you have any recommendations for books, podcasts, or DIY projects, let me know!
 
 <img src="https://github-readme-stats.vercel.app/api?username=apporator&theme=tokyonight"/>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=taisiat&theme=dark&background=000000)](https://git.io/streak-stats)
+<img src="http://github-readme-streak-stats.herokuapp.com?user=apporator"/>
