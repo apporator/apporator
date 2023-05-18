@@ -3,3 +3,5 @@ Partnerships & Product leader turned Software Engineer with a passion for design
 My enthusiasm for teamwork and a competitive spirit extends beyond the professional realm. I’ve played in chess tournaments, am a local trampoline dodgeball champion and host regular poker and board game nights.
 
 I’m always looking for opportunities to learn and grow. If you have any recommendations for books, podcasts, or DIY projects, let me know!
+
+https://github-readme-stats.vercel.app/api?username=apporator&theme=tokyonight
