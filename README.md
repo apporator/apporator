@@ -13,7 +13,7 @@ I love working with other impassioned individuals to break down big problems int
 I’ve been lucky to have many of these experiences over the last 10+ years at Apple, Stripe, and Uber in Partnerships and Product roles leading cross functional teams to design, launch, and scale new products. Working with so many stakeholders over the course of my career has provided me with a multi-disciplinary perspective in product development and the ability to preemptively identify and bypass potential pitfalls as we build them to fruition.
 
 ### 👨🏻‍🎨 Some of My Projects
-These are always getting better...I have a hard time putting them down 😅
+Make sure to check back on them for even MORE features...I have a hard time putting them down 😅
 <table>
   <tr>
     <td>
@@ -46,3 +46,33 @@ These are always getting better...I have a hard time putting them down 😅
 
 ### 🧱 My Building Blocks
 
+<div align="center"> 
+    <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" />
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain-wordmark.svg" />
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" />
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <br/>
+    <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rspec/rspec-original-wordmark.svg" />
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain-wordmark.svg" />
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
+</div>
