@@ -1,4 +1,4 @@
-<div align="right">
+<div align="left">
 <a style="font-size: 88px;" href="https://www.linkedin.com/in/mibird/" target="_blank"> <img style="height: 12px;" src="./assets/images/li-bug.png"/>
     Connect on LinkedIn
     </a>
