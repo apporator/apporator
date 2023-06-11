@@ -1,0 +1,65 @@
+body {
+    font-family: "Helvetica", Arial, sans-serif;
+  }
+  
+.wrapper {
+    display: flex;
+}
+
+.banner {
+    display: flex;
+    flex-direction: row-reverse;
+    gap: 10px;
+    padding-bottom: 30px;
+    width: 100%;
+}
+
+.banner i {
+    color: #1B78C0;
+    font-size: xx-large;
+    /* display: block; */
+}
+
+.greeting {
+    font-size: x-large;
+    line-height: 1.5;
+}
+
+.sub-greeting {
+    font-size: large;
+    padding-bottom: 20px;
+}
+
+.section-header {
+    font-size: large;
+    padding-bottom: 5px;
+}
+
+.section-contents {
+    padding-bottom: 15px;
+}
+
+.language-wrapper {
+    display: grid;
+    border: solid red 1px;
+    grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
+    grid-gap: 10px;
+    align-items: center;
+}
+
+.language {
+    border: solid black 1px;
+    width: 100px;   
+    height: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.language i {
+    font-size: xx-large;
+}
+
+.language p {
+    font-size: small;
+}
