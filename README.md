@@ -70,3 +70,12 @@ Make sure to check back on them for even MORE features...I have a hard time putt
     <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
+
+### 👋🏼 Say Hi!
+I’m always looking for opportunities to learn and grow. If you have any recommendations for books, podcasts, or DIY projects, let me know!
+
+<div align="left">
+<a style="font-size: 88px;" href="https://www.linkedin.com/in/mibird/" target="_blank"> <img style="height: 12px;" src="./assets/images/li-bug.png"/>
+    Message Me on LinkedIn
+    </a>
+ </div>
