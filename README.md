@@ -45,6 +45,7 @@ Make sure to check back on them for even MORE features...I have a hard time putt
 </table>
 
 ### 🧱 My Building Blocks
+Some of the tools I use to get the job done 🛠️ <br/><br/>
 <div align="center"> 
     <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
