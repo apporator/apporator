@@ -30,7 +30,7 @@ Make sure to check back on them for even MORE features...I have a hard time putt
       </td>
     <td>
         <a href="https://www.parrotpm.com/" target="_blank">ParrotPM</a><br/>
-        Ideate, develop, and execute complex projects with ParrotPM, a project management suite harnessing the power of AI generated project plans, interactive data visualizations, and automated reporting. Powered by MongoDB, Express, React / Redux, Node, Mongoose, and Open AI / ChatGPT.and CSS3.</td>
+        Ideate, develop, and execute complex projects with ParrotPM, a project management suite harnessing the power of AI generated project plans, interactive data visualizations, and automated reporting. Powered by MongoDB, Express, React / Redux, Node, Mongoose, and Open AI / ChatGPT.</td>
   </tr>
     
   <tr>
